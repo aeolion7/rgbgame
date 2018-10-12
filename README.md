@@ -1,5 +1,5 @@
 # RGB Guessing Game
-An simple in-browser RGB color guessing game!
+A simple in-browser RGB color guessing game!
 
 ## How It Works:
 1) You are given an RGB color value (*à la RGB(255, 0, 255)*) and a randomly-generated set of colored squares.
