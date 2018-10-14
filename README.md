@@ -7,12 +7,12 @@ A simple in-browser RGB color guessing game!
 3) That's it!
 
 ## Project Screenshots:
-Easy mode (3 squares):
+### Easy mode (3 squares):
 <br>
 Starting out:<img width="1440" alt="screen shot 2018-10-12 at 1 01 14 am" src="https://user-images.githubusercontent.com/38444304/46849044-657bf100-cdbb-11e8-8dac-0283af42b3b1.png">
 You win!<img width="1440" alt="screen shot 2018-10-12 at 1 01 34 am" src="https://user-images.githubusercontent.com/38444304/46849045-67de4b00-cdbb-11e8-8026-4136178699d8.png">
 <br><br>
-Hard mode (6 squares):
+### Hard mode (6 squares):
 <br>
 Here we go:<img width="1439" alt="screen shot 2018-10-12 at 12 59 50 am" src="https://user-images.githubusercontent.com/38444304/46849046-69a80e80-cdbb-11e8-8ad4-1ed95757227f.png">
 Got it!<img width="1440" alt="screen shot 2018-10-12 at 1 00 02 am" src="https://user-images.githubusercontent.com/38444304/46849049-6d3b9580-cdbb-11e8-8b3d-b814f7eaf131.png">
